@@ -1,0 +1,192 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22598.1; Version 2009; 64bit' Language: 'en' Physical Memory: 16145 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/kulka/tennis/tennis tutorial
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50432
+Successfully changed project path to: C:/Users/kulka/tennis/tennis tutorial
+C:/Users/kulka/tennis/tennis tutorial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 95.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kulka/tennis/tennis tutorial/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.15.1169
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56496
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003815 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.634 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.4 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 2075.
+Total: 10.587500 ms (FindLiveObjects: 0.413400 ms CreateObjectMapping: 0.176600 ms MarkObjects: 9.881100 ms  DeleteObjects: 0.114100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(9894d0c7332dac042b1d483d2372c0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(9894d0c7332dac042b1d483d2372c0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tree prefab at index 0 is missing.
+
+Tree prefab at index 1 is missing.
+
+ -> (artifact id: 'cef80e3babf07a8cd0c99bf775f6576f') in 0.115589 seconds
+  Import took 0.119540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/lamp.prefab
+  artifactKey: Guid(ed89e81826f1d8f45928664e7b748267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lamp.prefab using Guid(ed89e81826f1d8f45928664e7b748267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14fca5782ffff50270073c3c291594e8') in 0.341404 seconds
+  Import took 0.345073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/tennis.png
+  artifactKey: Guid(a2c014176eff88b40b4c8d936d93af46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tennis.png using Guid(a2c014176eff88b40b4c8d936d93af46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c8fcef0f3d7e14f65aafe9f96d800f') in 0.149535 seconds
+  Import took 0.152478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/NewLayer 1.terrainlayer
+  artifactKey: Guid(b04bd9aa914e95841980557ec65be039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 1.terrainlayer using Guid(b04bd9aa914e95841980557ec65be039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c184377b6740c8dd7e41081608f055e') in 0.031553 seconds
+  Import took 0.034954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(98511ffcf27d7ec4b8f26a39166068be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(98511ffcf27d7ec4b8f26a39166068be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7384114699da95d9f2b712fe63b5a3') in 0.017616 seconds
+  Import took 0.021433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/bounce 1.physicMaterial
+  artifactKey: Guid(de04ddac5bca0804e8dfd1ba234e7465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bounce 1.physicMaterial using Guid(de04ddac5bca0804e8dfd1ba234e7465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c63aed28d930c0e318f6d91da823a9da') in 0.010078 seconds
+  Import took 0.014609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/bounce.physicMaterial
+  artifactKey: Guid(a070eb3178c2f5a4d9edff100a930c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bounce.physicMaterial using Guid(a070eb3178c2f5a4d9edff100a930c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59471894922afd5532aca12da399f56f') in 0.007681 seconds
+  Import took 0.011798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/black mat.mat
+  artifactKey: Guid(422c8fc0b3260d840934e9d0f4c8a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/black mat.mat using Guid(422c8fc0b3260d840934e9d0f4c8a928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895a6a8bf1550bbc1b4bf5ca18dacf37') in 0.046844 seconds
+  Import took 0.050149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/player.prefab
+  artifactKey: Guid(a1133ace6b23eb74aa6296fa0bd0706d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/player.prefab using Guid(a1133ace6b23eb74aa6296fa0bd0706d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95051c102bbe827e922a748586d47329') in 0.016365 seconds
+  Import took 0.019658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003617 seconds.
+  path: Assets/player.prefab
+  artifactKey: Guid(a1133ace6b23eb74aa6296fa0bd0706d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/player.prefab using Guid(a1133ace6b23eb74aa6296fa0bd0706d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95051c102bbe827e922a748586d47329') in 0.015779 seconds
+  Import took 0.019168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8610.476101 seconds.
+  path: Assets/yellow.mat
+  artifactKey: Guid(24eefed03771c1a409428e3b04df866f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/yellow.mat using Guid(24eefed03771c1a409428e3b04df866f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f15919359c14ce83ffabf70e2c43221') in 0.089240 seconds
+  Import took 0.094073 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003234 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.165 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1654 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2126.
+Total: 6.511800 ms (FindLiveObjects: 0.237400 ms CreateObjectMapping: 0.078300 ms MarkObjects: 5.754600 ms  DeleteObjects: 0.440100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.658585 seconds.
+  path: Assets/Player.cs
+  artifactKey: Guid(7d5d47d1fce926646afaea65538be173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.cs using Guid(7d5d47d1fce926646afaea65538be173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd19a01d1f223b490343ba65fc5b0789') in 0.036422 seconds
+  Import took 0.039367 seconds .
+
